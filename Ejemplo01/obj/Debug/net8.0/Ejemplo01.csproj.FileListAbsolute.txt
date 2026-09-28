@@ -1,0 +1,14 @@
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/bin/Debug/net8.0/Ejemplo01
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/bin/Debug/net8.0/Ejemplo01.deps.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/bin/Debug/net8.0/Ejemplo01.runtimeconfig.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/bin/Debug/net8.0/Ejemplo01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/bin/Debug/net8.0/Ejemplo01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/Ejemplo01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/Ejemplo01.AssemblyInfoInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/Ejemplo01.AssemblyInfo.cs
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/Ejemplo01.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/Ejemplo01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/refint/Ejemplo01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/Ejemplo01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/Ejemplo01.genruntimeconfig.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Ejemplo01/obj/Debug/net8.0/ref/Ejemplo01.dll

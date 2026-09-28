@@ -1,0 +1,14 @@
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/Practica01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/Practica01.AssemblyInfoInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/Practica01.AssemblyInfo.cs
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/Practica01.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/bin/Debug/net8.0/Practica01
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/bin/Debug/net8.0/Practica01.deps.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/bin/Debug/net8.0/Practica01.runtimeconfig.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/bin/Debug/net8.0/Practica01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/bin/Debug/net8.0/Practica01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/Practica01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/refint/Practica01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/Practica01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/Practica01.genruntimeconfig.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica01/obj/Debug/net8.0/ref/Practica01.dll

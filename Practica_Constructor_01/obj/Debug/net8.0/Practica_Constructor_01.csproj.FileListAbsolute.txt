@@ -1,0 +1,14 @@
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/bin/Debug/net8.0/Practica_Constructor_01
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/bin/Debug/net8.0/Practica_Constructor_01.deps.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/bin/Debug/net8.0/Practica_Constructor_01.runtimeconfig.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/bin/Debug/net8.0/Practica_Constructor_01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/bin/Debug/net8.0/Practica_Constructor_01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/Practica_Constructor_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/Practica_Constructor_01.AssemblyInfoInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/Practica_Constructor_01.AssemblyInfo.cs
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/Practica_Constructor_01.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/Practica_Constructor_01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/refint/Practica_Constructor_01.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/Practica_Constructor_01.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/Practica_Constructor_01.genruntimeconfig.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/Debug/net8.0/ref/Practica_Constructor_01.dll

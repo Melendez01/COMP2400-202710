@@ -1,0 +1,14 @@
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/bin/Debug/net8.0/Practica_Constructor
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/bin/Debug/net8.0/Practica_Constructor.deps.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/bin/Debug/net8.0/Practica_Constructor.runtimeconfig.json
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/bin/Debug/net8.0/Practica_Constructor.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/bin/Debug/net8.0/Practica_Constructor.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/Practica_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/Practica_Constructor.AssemblyInfoInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/Practica_Constructor.AssemblyInfo.cs
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/Practica_Constructor.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/Practica_Constructor.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/refint/Practica_Constructor.dll
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/Practica_Constructor.pdb
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/Practica_Constructor.genruntimeconfig.cache
+/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor/obj/Debug/net8.0/ref/Practica_Constructor.dll
