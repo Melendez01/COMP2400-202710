@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/Practica_Constructor_01.csproj",
+      "projectUniqueName": "/Users/karina/Documents/GitHub/COMP2400-202710/Practica_Constructor_01/Practica_Constructor_01.csproj",
       "projectName": "Practica_Constructor_01",
-      "projectPath": "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/Practica_Constructor_01.csproj",
+      "projectPath": "/Users/karina/Documents/GitHub/COMP2400-202710/Practica_Constructor_01/Practica_Constructor_01.csproj",
       "packagesPath": "/Users/karina/.nuget/packages/",
-      "outputPath": "/Users/karina/Documents/INTERAMERICANA CURSOS/CURSOS AGO-DIC 2026/COMP2400/Labs 2026/Practica_Constructor_01/obj/",
+      "outputPath": "/Users/karina/Documents/GitHub/COMP2400-202710/Practica_Constructor_01/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karina/.nuget/NuGet/NuGet.Config"

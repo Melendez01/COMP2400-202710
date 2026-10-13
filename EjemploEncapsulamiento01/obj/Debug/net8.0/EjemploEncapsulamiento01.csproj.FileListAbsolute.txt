@@ -1,0 +1,15 @@
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.AssemblyInfoInputs.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.AssemblyInfo.cs
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.sourcelink.json
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/bin/Debug/net8.0/EjemploEncapsulamiento01
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/bin/Debug/net8.0/EjemploEncapsulamiento01.deps.json
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/bin/Debug/net8.0/EjemploEncapsulamiento01.runtimeconfig.json
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/bin/Debug/net8.0/EjemploEncapsulamiento01.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/bin/Debug/net8.0/EjemploEncapsulamiento01.pdb
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/refint/EjemploEncapsulamiento01.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.pdb
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/EjemploEncapsulamiento01.genruntimeconfig.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/EjemploEncapsulamiento01/obj/Debug/net8.0/ref/EjemploEncapsulamiento01.dll
