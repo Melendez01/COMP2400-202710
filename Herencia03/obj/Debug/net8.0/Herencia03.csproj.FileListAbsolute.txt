@@ -1,0 +1,15 @@
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/bin/Debug/net8.0/Herencia03
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/bin/Debug/net8.0/Herencia03.deps.json
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/bin/Debug/net8.0/Herencia03.runtimeconfig.json
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/bin/Debug/net8.0/Herencia03.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/bin/Debug/net8.0/Herencia03.pdb
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.AssemblyInfoInputs.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.AssemblyInfo.cs
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.sourcelink.json
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/refint/Herencia03.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.pdb
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/Herencia03.genruntimeconfig.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia03/obj/Debug/net8.0/ref/Herencia03.dll
