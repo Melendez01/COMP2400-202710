@@ -1,0 +1,15 @@
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/bin/Debug/net8.0/Herencia_Polimorfismo
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/bin/Debug/net8.0/Herencia_Polimorfismo.deps.json
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/bin/Debug/net8.0/Herencia_Polimorfismo.runtimeconfig.json
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/bin/Debug/net8.0/Herencia_Polimorfismo.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/bin/Debug/net8.0/Herencia_Polimorfismo.pdb
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.AssemblyInfoInputs.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.AssemblyInfo.cs
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.csproj.CoreCompileInputs.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.sourcelink.json
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/refint/Herencia_Polimorfismo.dll
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.pdb
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/Herencia_Polimorfismo.genruntimeconfig.cache
+/Users/karina/Documents/GitHub/COMP2400-202710/Herencia_Polimorfismo/obj/Debug/net8.0/ref/Herencia_Polimorfismo.dll
